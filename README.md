@@ -1,2 +1,2 @@
-# coderuz
-Coursera test repository
+# Личный проект Девайс
+
